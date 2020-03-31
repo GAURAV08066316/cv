@@ -1,0 +1,65 @@
+body{
+  background-color: #99FF00;
+}
+h1{
+  font-size: 120px;
+  color: silver;
+  margin-top:10px;
+}
+h2{
+  font-size: 35px;
+}
+.p14{
+ border: dotted 5px;
+  width: 20%;
+  height: 70px;
+
+}
+
+
+
+}
+ul{
+  font-size: 40px;
+  color: red;
+}
+.web{
+  font-size: 55px;
+  color: #330033;
+
+}
+.ppppp{
+  font-size: 30px;
+  color: black;
+}
+.ppppppp{
+  font-size: 55px;
+  color: #330033;
+}
+.art{
+  font-size: 30px;
+  color:crimson;
+}
+.heading{
+  font-size: 30px;
+  color: black;
+}
+.pppppppp{
+  font-size: 40px;
+  color: black;
+}
+.top{
+  background-color: grey;
+  font-size: 30px;
+}
+.div2{
+  background-color: grey;
+}
+.pppppppppp{
+  background-color: grey;
+}
+.d12{
+  background-color: yellow;
+  width: 80%;
+  margin-left: 125px;
+}
